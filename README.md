@@ -1,4 +1,4 @@
-# Hello there :tw-1f44b:, Im Wiku 
+# Hello there 👋🏻, Im Wiku 
 
 I'm a software developer specializing in building mobile applications using Flutter. ![Flutter Icon](https://img.icons8.com/color/50/000000/flutter.png)
 
@@ -44,4 +44,4 @@ Responsible to design and develop DIKA Indonesia's website, using React JS
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanes-wiku-sakti-9113a41b4/)
 
-:tw-1f310: [My Personal Website](https://johaneswiku.com/)
+🌐 [My Personal Website](https://johaneswiku.com/)
