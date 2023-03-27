@@ -17,7 +17,7 @@ I'm a software developer specializing in building mobile applications using Flut
 
 1. [Indopaket](https://play.google.com/store/apps/details?id=app.indopaket)
 Developing Main App for PT Inti Paket Prima, using Flutter and implement REST, Clean Architecture, Firebase Messaging, Auth, etc. 
-(Please don't mind about the star review :tw-1f605:, star review is mostly complaining about the operational service. The company itself is still new, and still improving their service every day)
+(Please don't mind about the star review 😅🙏🏻, star review is mostly complaining about the operational service. The company itself is still new, and still improving their service every day)
 
 2. [Indopaket Hub Delivery](https://play.google.com/store/apps/details?id=app.hubdelivery.indopaket)
 Developing Internal App for PT Inti Paket Prima, using Flutter and implement REST, Clean Architecture, Firebase Messaging, Auth, etc.
