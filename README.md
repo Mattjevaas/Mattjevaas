@@ -45,3 +45,5 @@ Responsible to design and develop DIKA Indonesia's website, using React JS
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanes-wiku-sakti-9113a41b4/)
 
 🌐 [My Personal Website](https://johaneswiku.com/)
+
+⭐️ [Dicoding Profile](https://www.dicoding.com/users/johaneswiku/academies?graduation_status=graduated)
