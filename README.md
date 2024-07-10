@@ -15,13 +15,13 @@ I'm a software developer specializing in building mobile applications using Flut
 
 ## Projects
 
-1. [Indopaket](https://play.google.com/store/apps/details?id=app.indopaket)
+1. [Indopaket](https://play.google.com/store/apps/details?id=app.indopaket) (available on ios)
 Developing Main App for PT Inti Paket Prima, using Flutter and implement REST, Clean Architecture, Firebase Messaging, Auth, etc. 
 
-2. [Indopaket Hub Delivery](https://play.google.com/store/apps/details?id=app.hubdelivery.indopaket)
+2. [Indopaket Hub Delivery](https://play.google.com/store/apps/details?id=app.hubdelivery.indopaket) (available on ios)
 Developing Internal App for PT Inti Paket Prima, using Flutter and implement REST, Clean Architecture, Firebase Messaging, Auth, etc.
 
-3.  [Box Box Braingame](https://github.com/yourusername/project1)
+3.  [Box Box Braingame](https://apps.apple.com/id/app/boxbox-brain-game/id6443882280)
 Simple memory game for Ios using Xcode and Swift.
 
 4. [URL Shortener](https://johaneswiku.com/urlshort/)
