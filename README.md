@@ -22,7 +22,7 @@ Developing Main App for PT Inti Paket Prima, using Flutter and implement REST, C
 Developing Internal App for PT Inti Paket Prima, using Flutter and implement REST, Clean Architecture, Firebase Messaging, Auth, etc.
 
 3.  [Box Box Braingame](https://apps.apple.com/id/app/boxbox-brain-game/id6443882280)
-Simple memory game for Ios using Xcode and Swift.
+Simple memory game for iOS, using Xcode and Swift UI Kit.
 
 4. [URL Shortener](https://johaneswiku.com/urlshort/)
 URL Shortener app using Svelte for the FE, Golang and Redis for the BE.
